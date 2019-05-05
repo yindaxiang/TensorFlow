@@ -9,7 +9,3 @@ b = tf.test.is_gpu_available(
 
 print(a)
 print(b)
-
-c = 1
-d = 1
-print(c + d)
