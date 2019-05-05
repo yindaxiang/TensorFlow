@@ -6,5 +6,7 @@ def cycle():
     print('000000')
 
 
+print(time.time())
+
 while True:
     cycle()
